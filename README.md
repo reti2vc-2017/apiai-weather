@@ -7,3 +7,7 @@ The repository contains a simple agent to speak about the weather (`WeatherAgent
 Moreover, it contains an example of how to interact with the _api.ai_ API through HTML5 and JavaScript. It uses the HTML5 [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) to providing both speech-to-text and text-to-speech functionality in the browser. It was tested on Chrome 57.
 
 The JavaScript code present in the example has been inspired by the [gist](https://gist.github.com/Gugic/cfc008599fa9a82eeba4127648009132) provided in the [api.ai documentation](https://docs.api.ai).
+
+## Try it!
+
+The example contained in this repository is published at https://reti2vc-2017.github.io/apiai-weather/
